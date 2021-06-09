@@ -1,0 +1,16 @@
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\obj\Debug\net5.0\Kodluyoruz_Degiskenler.csprojAssemblyReference.cache
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\obj\Debug\net5.0\Kodluyoruz_Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\obj\Debug\net5.0\Kodluyoruz_Degiskenler.AssemblyInfoInputs.cache
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\obj\Debug\net5.0\Kodluyoruz_Degiskenler.AssemblyInfo.cs
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\obj\Debug\net5.0\Kodluyoruz_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\bin\Debug\net5.0\Kodluyoruz_Degiskenler.exe
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\bin\Debug\net5.0\Kodluyoruz_Degiskenler.deps.json
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\bin\Debug\net5.0\Kodluyoruz_Degiskenler.runtimeconfig.json
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\bin\Debug\net5.0\Kodluyoruz_Degiskenler.runtimeconfig.dev.json
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\bin\Debug\net5.0\Kodluyoruz_Degiskenler.dll
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\bin\Debug\net5.0\ref\Kodluyoruz_Degiskenler.dll
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\bin\Debug\net5.0\Kodluyoruz_Degiskenler.pdb
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\obj\Debug\net5.0\Kodluyoruz_Degiskenler.dll
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\obj\Debug\net5.0\ref\Kodluyoruz_Degiskenler.dll
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\obj\Debug\net5.0\Kodluyoruz_Degiskenler.pdb
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_Degiskenler\Kodluyoruz_Degiskenler\obj\Debug\net5.0\Kodluyoruz_Degiskenler.genruntimeconfig.cache

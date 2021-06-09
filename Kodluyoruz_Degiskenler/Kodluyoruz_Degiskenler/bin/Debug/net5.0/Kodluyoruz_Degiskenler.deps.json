@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kodluyoruz_Degiskenler/1.0.0": {
+        "runtime": {
+          "Kodluyoruz_Degiskenler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kodluyoruz_Degiskenler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
