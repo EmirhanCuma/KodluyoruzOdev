@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kodluyoruz_ConsoleProgramlama/1.0.0": {
+        "runtime": {
+          "Kodluyoruz_ConsoleProgramlama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kodluyoruz_ConsoleProgramlama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

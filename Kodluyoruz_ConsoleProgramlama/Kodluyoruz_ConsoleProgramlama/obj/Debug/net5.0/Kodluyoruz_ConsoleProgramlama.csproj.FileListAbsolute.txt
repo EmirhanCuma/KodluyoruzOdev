@@ -1,0 +1,16 @@
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\bin\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.exe
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\bin\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.deps.json
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\bin\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.runtimeconfig.json
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\bin\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.runtimeconfig.dev.json
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\bin\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.dll
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\bin\Debug\net5.0\ref\Kodluyoruz_ConsoleProgramlama.dll
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\bin\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.pdb
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\obj\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.csprojAssemblyReference.cache
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\obj\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\obj\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.AssemblyInfoInputs.cache
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\obj\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.AssemblyInfo.cs
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\obj\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\obj\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.dll
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\obj\Debug\net5.0\ref\Kodluyoruz_ConsoleProgramlama.dll
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\obj\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.pdb
+C:\Users\Emirhan Cuma Arslan\source\repos\Kodluyoruz_ConsoleProgramlama\Kodluyoruz_ConsoleProgramlama\obj\Debug\net5.0\Kodluyoruz_ConsoleProgramlama.genruntimeconfig.cache
